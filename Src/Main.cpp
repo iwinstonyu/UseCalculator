@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	Sum(1, 2);
+	cout << Sum(1, 2) << endl;
 	
 	return 0;
 }
